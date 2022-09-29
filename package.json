@@ -1,5 +1,5 @@
 {
-  "name": "cra-template-ckeditor5-classic",
+  "name": "@ckeditor/cra-template-ckeditor5-classic",
   "version": "1.0.0",
   "keywords": [
     "react",
@@ -9,7 +9,7 @@
     "rich text editor",
     "classic"
   ],
-  "description": "Create React App template for CKEditor5 Classic",
-  "author": "apadol-cksource",
+  "description": "Create React App template for predefined build of CKEditor 5 Classic",
+  "author": "CKSource (http://cksource.com/)",
   "license": "GPL-2.0-or-later"
 }
