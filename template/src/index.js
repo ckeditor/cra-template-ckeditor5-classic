@@ -7,7 +7,7 @@ import reportWebVitals from "./reportWebVitals";
 ReactDOM.render(
   <React.StrictMode>
     <header class="inverted">
-      <h2>CKEditor 5 Classic in React</h2>
+      <h1>CKEditor 5 Classic in React</h1>
       <p></p>
     </header>
     <App />
