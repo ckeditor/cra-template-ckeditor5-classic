@@ -6,11 +6,11 @@ To use this template within your project, add `--template ckeditor5-classic` whe
 
 For example:
 ```sh 
-npx create-react-app my-app --template ckeditor5-classic
+npx create-react-app ckeditor5-classic-demo --template @ckeditor/ckeditor5-classic
 
 # or
 
-yarn create react-app my-app --template ckeditor5-classic
+yarn create react-app ckeditor5-classic-demo --template @ckeditor/ckeditor5-classic
 ```
 
 Cloning this repo pulls down the CKEditor template only; not a bundled and configured Create React App.

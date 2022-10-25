@@ -11,5 +11,13 @@
   ],
   "description": "Create React App template for predefined build of CKEditor 5 Classic",
   "author": "CKSource (http://cksource.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ckeditor/cra-template-ckeditor5-classic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ckeditor/cra-template-ckeditor5-classic/issues"
+  },
+  "homepage": "https://github.com/ckeditor/cra-template-ckeditor5-classic",
   "license": "GPL-2.0-or-later"
 }
